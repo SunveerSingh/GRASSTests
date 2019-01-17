@@ -1,0 +1,12 @@
+time=2.465s
+status=succeeded
+total=3
+failures=0
+errors=0
+successes=3
+skipped=0
+expected_failures=0
+unexpected_successes=0
+tested_modules=r.basins.fill,r.basins.fill,r.basins.fill
+supplementary_files=
+test_type=not-specified
